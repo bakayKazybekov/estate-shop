@@ -52,6 +52,8 @@ h4 {
 
 /* Site inner */
 
+
+
 .inner {
   display: flex;
   justify-content: center;
@@ -59,7 +61,7 @@ h4 {
   height: 90vh;
   margin-top: 15px;
   background-image: url(bg-1.jpg);
-  opacity: .8;
+  opacity: .7;
 }
 
 .inner__block {
